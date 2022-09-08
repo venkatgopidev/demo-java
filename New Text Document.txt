@@ -1,0 +1,3 @@
+dckr_pat_JxMEiKCz9soZlIqXGqCY-xM2Qcc
+
+deploy adapters: [tomcat9(credentialsId: 'ef23ae80-e1ca-4d57-bc92-2d78e8689bea', path: '', url: 'http://3.88.178.227:8081')], contextPath: 'gopiww', war: '**/*.war'
